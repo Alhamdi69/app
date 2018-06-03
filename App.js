@@ -6,7 +6,6 @@ import {
   YellowBox
 } from 'react-native';
 YellowBox.ignoreWarnings(['Warning: isMounted(...) is deprecated', 'Module RCTImageLoader']);
-import {Actions} from 'react-native-router-flux';
 
 
 import Routes from './src/Routes'
